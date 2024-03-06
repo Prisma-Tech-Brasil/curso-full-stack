@@ -91,7 +91,7 @@ Cria um novo diretório (ou pasta)
 
 ## ```touch```
 
-Cria um novo diretório (ou pasta)
+Cria um novo arquivo
 
 - Fato interessante: o comando ```touch``` (tocar) foi orignalmente criado no sistema operacional Unix para modificar arquivos que já existem, porém, caso você tente modificar um arquivo que não existe com este comando, ele criará o arquivo. Por isso, ele acabou se tornando o comando principal para criação de arquivos em Bash.
 
