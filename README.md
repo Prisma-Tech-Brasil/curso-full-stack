@@ -1,4 +1,4 @@
-# 🧑‍💻 Aula 2
+# 🧑‍💻 Aula 3
 
 ## Principais comandos em Bash
 
