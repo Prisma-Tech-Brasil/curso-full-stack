@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(205, 98, 98);
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: auto auto;
+    color: rgb(133, 29, 29);
+    text-align: center;
+    border: 1px solid rgb(205, 98, 98);
+    padding: 10px;
+    border-radius: 5px;
+    width: 50%;
+    text-wrap: wrap;
+}
+
+.centered-button-container {
+    margin: 1rem;
+    text-align: center; /* Center align the content horizontally */
+  }
+  
+  .centered-button {
+    display: inline-block; /* Ensure button behaves like an inline-block element */
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #007bff; /* Example background color */
+    color: #fff; /* Example text color */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border-radius for rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+  }
