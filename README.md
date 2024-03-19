@@ -1,4 +1,4 @@
-# 🧑‍💻 Aula 2
+# 🧑‍💻 Aula 3
 
 ## Principais comandos em Bash
 
@@ -69,12 +69,30 @@ Imprime na tela.
 
 ```echo "Ola mundo!!!"```: imprime 'Ola mundo!!!' na tela
 
+
 ## ```history```
 
 Imprime histórico de comandos na tela
 
+- outras formas de usar:
+
+```echo <coisa a ser impressa> > <arquivo onde você quer imprimir>```: imprime em arquivo
+
+- exemplo:
+
+```echo "Olá, mudo!" > gato.txt```: imprime Olá, mundo! em gato.txt
+
+## ```history```
+
+Imprime histórico de comandos na tela.
+
 ```history```
 
+## ```clear```
+
+Limpa o termial.
+
+```clear```
 
 ## ```mkdir```
 
